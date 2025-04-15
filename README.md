@@ -1,3 +1,0 @@
-# ccriparo
-Le immagini presenti in  questo repository sono protette da copyright.
-Non ne è consentito l'uso, la copia o la distribuzione senza autorizzazione scritta.
