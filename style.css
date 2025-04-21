@@ -215,9 +215,10 @@ main {
 /* Slideshow */
 .home-container {
     display: flex;
-    width: 100vw;
-    margin: -50px -50px 0 -50px; 
+    width: 100%; /* Cambiato da 100vw a 100% */
+    margin: -50px -50px 0 -50px;
     padding: 0;
+    overflow: hidden; /* Aggiunto per prevenire overflow */
 }
 
 .slideshow-container {
