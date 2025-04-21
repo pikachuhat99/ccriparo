@@ -280,7 +280,7 @@ main {
 }
 
 .next {
-    right: 15px;
+    right: 0;
     border-radius: 6px 0 0 6px;
 }
 
